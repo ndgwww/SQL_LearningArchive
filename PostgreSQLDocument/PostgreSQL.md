@@ -1,3 +1,5 @@
+[TOC]
+
 # Docker安装PostgreSQL
 
 https://blog.csdn.net/Rong_Toa/article/details/88917424
@@ -53,5 +55,14 @@ GRANT ALL PRIVILEGES ON DATABASE exampledb TO dbuser;
 > - \e：打开文本编辑器。
 > - \conninfo：列出当前数据库和连接的信息。
 
+# 一些教程
 
+http://www.postgres.cn/docs/13/
 
+https://www.lidihuo.com/postgresql/postgresql-json.html
+
+https://www.yiibai.com/postgresql/
+
+https://github.com/postgres-cn/pgdoc-cn
+
+https://pg.sjk66.com/index.html
